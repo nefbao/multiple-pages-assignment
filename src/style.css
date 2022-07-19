@@ -1,3 +1,7 @@
 body {
   background: rgb(248, 232, 166);
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
